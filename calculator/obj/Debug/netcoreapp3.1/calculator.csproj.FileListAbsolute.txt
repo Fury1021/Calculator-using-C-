@@ -1,0 +1,28 @@
+C:\Users\Suave\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.exe
+C:\Users\Suave\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.deps.json
+C:\Users\Suave\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.json
+C:\Users\Suave\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.dev.json
+C:\Users\Suave\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.dll
+C:\Users\Suave\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.pdb
+C:\Users\Suave\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.AssemblyReference.cache
+C:\Users\Suave\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suave\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfoInputs.cache
+C:\Users\Suave\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfo.cs
+C:\Users\Suave\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Suave\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.dll
+C:\Users\Suave\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.pdb
+C:\Users\Suave\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.genruntimeconfig.cache
+d:\DOCUMENTS\DIO\portfolio\save first\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.exe
+d:\DOCUMENTS\DIO\portfolio\save first\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.deps.json
+d:\DOCUMENTS\DIO\portfolio\save first\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.json
+d:\DOCUMENTS\DIO\portfolio\save first\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.dev.json
+d:\DOCUMENTS\DIO\portfolio\save first\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.dll
+d:\DOCUMENTS\DIO\portfolio\save first\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.pdb
+d:\DOCUMENTS\DIO\portfolio\save first\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.AssemblyReference.cache
+d:\DOCUMENTS\DIO\portfolio\save first\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.GeneratedMSBuildEditorConfig.editorconfig
+d:\DOCUMENTS\DIO\portfolio\save first\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfoInputs.cache
+d:\DOCUMENTS\DIO\portfolio\save first\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfo.cs
+d:\DOCUMENTS\DIO\portfolio\save first\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.CoreCompileInputs.cache
+d:\DOCUMENTS\DIO\portfolio\save first\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.dll
+d:\DOCUMENTS\DIO\portfolio\save first\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.pdb
+d:\DOCUMENTS\DIO\portfolio\save first\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.genruntimeconfig.cache
